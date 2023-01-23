@@ -15,10 +15,8 @@ Note that the singer in the testing data could **not** be found in the training 
         <tr>
             <th></th>
             <th>GT</th>
-            <th>GT(HiFiGAN)</th>
+            <th>GT (HiFiGAN)</th>
             <th>Speech</th>
-            <th>SpeechSplit 2.0</th>
-            <th>AlignSTS</th>
         </tr>
         </thead>
         <tbody>
@@ -27,6 +25,21 @@ Note that the singer in the testing data could **not** be found in the training 
             <td><audio controls="" ><source       src="resources/audio/gt/1.wav" type="audio/wav"></audio></td>
             <td><audio controls="" ><source      src="resources/audio/voc/1.wav" type="audio/wav"></audio></td>
             <td><audio controls="" ><source       src="resources/audio/sp/1.wav" type="audio/wav"></audio></td>
+        </tr>
+    </tbody>
+    </table>
+
+    <table style='width: 100%;'>
+        <thead>
+        <tr>
+            <th></th>
+            <th>SpeechSplit 2.0</th>
+            <th>AlignSTS</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <th scope="row">wav</th>
             <td><audio controls="" ><source    src="resources/audio/spsp2/1.wav" type="audio/wav"></audio></td>
             <td><audio controls="" ><source src="resources/audio/alignsts/1.wav" type="audio/wav"></audio></td>
         </tr>
