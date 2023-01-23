@@ -32,7 +32,7 @@ Note that the singer in the testing data could **not** be found in the training 
         </tr>
     </tbody>
     </table>
-2. But I do do feel that
+2. I can see the first leaf falling
     <table style='width: 100%;'>
         <thead>
         <tr>
